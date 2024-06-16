@@ -1,3 +1,5 @@
+ Se trata de una aplicación empresarial que gestiona las citas sobre la reparación de vehículos en distintos talleres, introduciendo las funciones básicas CRUD entre otras:
+ 
 1. Insertar taller
 2. Insertar mecánico
 3. Insertar cita
